@@ -1,0 +1,199 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #A4A5C7;
+}
+
+.menu {
+    background-color: #EFEFF8;
+    display: flex;
+	justify-content: center;
+    align-items: center;
+    height: 80px;
+	width: 1200px; /* Ajusta el ancho según tus necesidades */
+	margin-left: 565px;
+    position: fixed; /* Fija la barra en la parte superior */
+    top: 0; /* Asegura que esté siempre en la parte superior */
+    z-index: 1000; /* Ajusta el valor según la superposición con otros elementos */
+}
+
+.menu ul {
+    list-style-type: none;
+    display: flex;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li {
+    margin-right: 20px;
+}
+.menu ul li a{
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 5px 10px;
+	transition: background-color 0.3s ease, color 0.3s ease;
+
+}
+.menu ul li a:hover {
+    background-color: #A4A5C7; /* Fondo dorado cuando se pasa el ratón */
+    color: #D2C9E3; 
+    border-radius: 15px; 
+}
+#seccion1 p:first-of-type,
+#seccion2 p:first-of-type,
+#seccion3 p:first-of-type 
+#seccion4 p:first-of-type
+
+{
+    font-size: 50px; /* Ajusta este valor al tamaño que prefieras */
+}
+
+#seccion1,  #seccion3 {
+	width: 1200px;
+	height: 1200px;
+	color: white;
+	list-style-type: none;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 30px;
+	padding-top: 70px;
+	margin: auto; /* Centra el elemento horizontalmente */
+}
+#seccion2{
+	width: 1200px;
+	height: 1600px;
+	color: #595A96;
+	list-style-type: none;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 25px;
+	padding-top: 70px;
+	margin: auto; /* Centra el elemento horizontalmente */
+}
+
+#seccion1 {
+	background-color: #595A96;
+}
+
+#seccion2 {
+	background-color: #D2C9E3;
+}
+
+#seccion3 {
+	background-color: #B5A0CE;
+}
+#seccion4 {
+	background-color: #D2C9E3;
+}
+#seccion5 {
+	background-color: #EFEFF8;
+}
+.derecha{
+	text-align: center;
+	
+margin-top: -1110px;
+margin-left: 300px;
+}
+.derecha1{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha2{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha3{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha4{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha5{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha6{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha7{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha8{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha9{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha10{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha11{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha12{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha13{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.derecha14{
+	text-align: center;
+	margin-top: 10px;
+margin-left: 300px;
+}
+.final{
+	text-align: center;
+	margin-top: 200px;
+margin-left: 300px;
+}
+.final1{
+	text-align: center;
+	margin-top: 50px;
+margin-left: 300px;
+}
+.video{
+	width: 1100px;
+	margin-left: 50px;
+	margin-top: 220px;
+}
+
+
+#seccion4,  #seccion5 {
+	width: 1200px;
+	height: 1200px;
+	color:  #595A96;
+	list-style-type: none;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 40px;
+	padding-top: 70px;
+	margin: auto; /* Centra el elemento horizontalmente */
+}
+.inte{
+	text-align: center;
+	margin-top: 50px;
+margin-left: 40px;
+}
